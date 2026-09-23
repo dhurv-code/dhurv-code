@@ -20,8 +20,7 @@ on practical automation, scalable APIs, and real-world software solutions.
 - 🐍 Python development with FastAPI and RESTful APIs
 - 🧠 Experience with vector embeddings, semantic search, and AI automation
 - ⚙️ Full-stack development using React, Node.js, PostgreSQL, and Supabase
-- 🔐 Backend development with JWT authentication and role-based authorization
-- 🏗️ Experience designing modular, reusable backend services and workflows
+- 🔐 Backend development with JWT authentication
 - 💻 Strong foundation in C++, SQL, Data Structures & Algorithms
 - 🚀 Interested in building practical software that solves real-world problems
 
