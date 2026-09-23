@@ -50,32 +50,18 @@ Git · GitHub · Render · Vercel · Microsoft Excel
 
 ---
 
----
-
 ## 💼 Experience
 
 ### Software Developer Intern — Varach Innovations
 **Jun 2026 – Sept 2026**
 
-- ⚙️ Engineered backend services and API endpoints using Node.js and Supabase
-- 🏗️ Applied clean architecture, asynchronous logic, and structured error handling
-- 🎟️ Delivered four core EventPass workflows covering event creation,
-  participant registration, ticketing, and attendance management
-- 📱 Digitized ticketing and attendance workflows, replacing manual
-  paper-based check-in processes
-- 🤝 Collaborated with a cross-functional team of 3 across backend,
-  frontend, and database development
-- 🧪 Contributed to testing, debugging, deployment, Git, GitHub, and code review
+An event-management platform that digitizes event creation, participant registration, ticketing, and attendance management.
 
 ### Web Developer Intern — CodSoft
 **Dec 2025 – Jan 2026**
 
 - 💼 Built a web-based job portal with JWT authentication and
   role-based authorization
-- 👥 Implemented candidate management and application-tracking workflows
-- 🔌 Designed RESTful APIs using appropriate HTTP methods and status codes
-- 🧩 Refactored backend components into modular and reusable services
-- 🚀 Improved maintainability and simplified future feature development
 
 ---
 
@@ -109,6 +95,26 @@ An AI video-processing platform that automatically converts long-form videos int
 
 A personal finance platform that helps users track expenses, manage monthly budgets, analyze spending patterns, and monitor budget adherence.
 
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+
+📧 Email Automation
+
+An automated email workflow platform that helps manage leads, synchronize Gmail data, and streamline personalized email campaigns.
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+
+🏥 Health Prediction App
+
+An AI-powered health prediction application that analyzes user-provided health parameters to generate predictive insights and support early risk awareness.
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+
+🎯 CareerAI — AI Career Suggestion
+
+An AI-powered career guidance platform that analyzes users' interests, skills, and preferences to suggest suitable career paths and generate personalized insights.
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+
+💰 NexWorth
+
+An AI-powered personal finance and investment guidance platform that helps users understand money flow, track expenses and liabilities, set financial goals, and discover investable surplus with personalized allocation insights
 [![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
 
 ---
