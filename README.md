@@ -87,13 +87,7 @@ Git · GitHub · Render · Vercel · Microsoft Excel
 
 **Python · FastAPI · RAG · LLMs · ChromaDB · Vector Embeddings**
 
-- 🧠 Built a Retrieval-Augmented Generation application using Python,
-  FastAPI, ChromaDB, vector embeddings, and semantic search
-- 📄 Implemented document ingestion, chunking, embedding generation,
-  and vector retrieval pipelines
-- 🔎 Enabled AI-powered document search and question answering
-- 🔐 Designed API endpoints for authentication and semantic search
-- ⚡ Applied structured data processing and query optimization
+An AI-powered research assistant that uses RAG, semantic search, and vector embeddings to search documents and answer questions from their content.
 
 [![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_AI_RESEARCH_REPO)
 
@@ -103,14 +97,7 @@ Git · GitHub · Render · Vercel · Microsoft Excel
 
 **Python · FastAPI · Faster Whisper · Gemini · FFmpeg · MoviePy**
 
-- 🤖 Developed an AI video-processing pipeline for long-form video
-  repurposing
-- 🎙️ Used Faster Whisper for transcript generation
-- 🧠 Used Gemini LLM to identify engaging video segments from
-  timestamped transcripts
-- ✂️ Generated short-form content candidates automatically
-- 🔄 Automated the complete workflow:
-  **Upload → Transcription → Timestamp Selection → Short Generation**
+An AI video-processing platform that automatically converts long-form videos into short-form content by transcribing, identifying engaging segments, and generating clips.
 
 [![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_SHORTSLAB_REPO)
 
@@ -120,24 +107,13 @@ Git · GitHub · Render · Vercel · Microsoft Excel
 
 **Next.js · TypeScript · Supabase · PostgreSQL**
 
-- 💳 Built a finance application for expense and budget management
-- 🗄️ Designed indexed and transaction-safe database workflows
-- 📊 Implemented expense tracking, monthly budgets, category analytics,
-  and transaction history
-- 🔐 Added secure authentication
-- 📈 Built dashboard insights to analyze spending patterns
-- 🎯 Provided budget-adherence visibility through transaction analysis
+A personal finance platform that helps users track expenses, manage monthly budgets, analyze spending patterns, and monitor budget adherence.
 
 [![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
 
 ---
 
 
-🎓 Education
-Uttarakhand Technical University, Dehradun
-
-B.Tech in Computer Science and Engineering (AI & ML)
-2023 – 2027 · CGPA: 7.58 / 10
 
 
 ## 🤝 Connect With Me
