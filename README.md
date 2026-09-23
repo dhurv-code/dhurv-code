@@ -109,7 +109,7 @@ An automated email workflow platform that helps manage leads, synchronize Gmail 
 ### 🏥 Health Prediction App
 
 An AI-powered health prediction application that analyzes user-provided health parameters to generate predictive insights and support early risk awareness.
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)]((https://github.com/dhurv-code/diabetes-predictor-app))
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/diabetes-predictor-app)
 
 ---
 
