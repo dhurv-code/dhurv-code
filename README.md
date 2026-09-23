@@ -116,14 +116,14 @@ An AI-powered health prediction application that analyzes user-provided health p
 ### 🎯 CareerAI — AI Career Suggestion
 
 An AI-powered career guidance platform that analyzes users' interests, skills, and preferences to suggest suitable career paths and generate personalized insights.
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)]((https://github.com/dhurv-code/Career-suggestion))
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/Career-suggestion)
 
 ---
 
 ### 💰 NexWorth
 
 An AI-powered personal finance and investment guidance platform that helps users understand money flow, track expenses and liabilities, set financial goals, and discover investable surplus with personalized allocation insights
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)]((https://github.com/dhurv-code/NexWorth))
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/NexWorth)
 
 ---
 
