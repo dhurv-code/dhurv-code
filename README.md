@@ -75,7 +75,7 @@ An event-management platform that digitizes event creation, participant registra
 
 An AI-powered research assistant that uses RAG, semantic search, and vector embeddings to search documents and answer questions from their content.
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_AI_RESEARCH_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/Ai-Research-assistant)
 
 ---
 
@@ -85,7 +85,7 @@ An AI-powered research assistant that uses RAG, semantic search, and vector embe
 
 An AI video-processing platform that automatically converts long-form videos into short-form content by transcribing, identifying engaging segments, and generating clips.
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_SHORTSLAB_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/Shorts-Generator-Ai)
 
 ---
 
@@ -95,27 +95,35 @@ An AI video-processing platform that automatically converts long-form videos int
 
 A personal finance platform that helps users track expenses, manage monthly budgets, analyze spending patterns, and monitor budget adherence.
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/Budget_Rectifier)
 
-📧 Email Automation
+---
+
+### 📧 Email Automation
 
 An automated email workflow platform that helps manage leads, synchronize Gmail data, and streamline personalized email campaigns.
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](https://github.com/dhurv-code/Email_automation)
 
-🏥 Health Prediction App
+---
+
+### 🏥 Health Prediction App
 
 An AI-powered health prediction application that analyzes user-provided health parameters to generate predictive insights and support early risk awareness.
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)]((https://github.com/dhurv-code/diabetes-predictor-app))
 
-🎯 CareerAI — AI Career Suggestion
+---
+
+### 🎯 CareerAI — AI Career Suggestion
 
 An AI-powered career guidance platform that analyzes users' interests, skills, and preferences to suggest suitable career paths and generate personalized insights.
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)]((https://github.com/dhurv-code/Career-suggestion))
 
-💰 NexWorth
+---
+
+### 💰 NexWorth
 
 An AI-powered personal finance and investment guidance platform that helps users understand money flow, track expenses and liabilities, set financial goals, and discover investable surplus with personalized allocation insights
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)](YOUR_BUDGET_REPO)
+[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat-square&logo=github)]((https://github.com/dhurv-code/NexWorth))
 
 ---
 
